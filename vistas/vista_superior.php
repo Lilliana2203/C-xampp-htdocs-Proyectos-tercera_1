@@ -4,9 +4,12 @@
     <meta charset="UTF-8">
     <meta name="description" content="Proyecto Universitario">
     <title>Tercera 1</title>
+    <link rel="stylesheet" href="./css/main.css">
   </head>
+
   <body>
-    <h1>Bienvenida a tu proyecto</h1>
+   <?php include 'includes/header.php'; ?>
+
   </body>
 </html>
 
